@@ -1,0 +1,3 @@
+IO|IphoneOS
+AN|Androi
+BL|BlackBerry

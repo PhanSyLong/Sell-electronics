@@ -1,0 +1,3 @@
+LT000001|LaptopApple1|AP|Apple|IO|IphoneOS|2500|0|false
+LT000002|LAtopBlack1|SA|Samsung|BL|BlackBerry|2000|0|false
+LT000003|LaptopSamsung2|SA|Samsung|AN|Androi|3000|0|false

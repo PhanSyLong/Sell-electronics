@@ -1,0 +1,3 @@
+SM000002|Smartphonesieuxinxo|SA|Samsung|AN|Androi|2000|2|3000mAh
+SM000001|SmartphoneIP1|AP|Apple|IO|IphoneOS|3000|0|2000mAh
+SM000003|Smartphonelimitted|AS|Asus|IO|IphoneOS|4000|0|4000mAh
